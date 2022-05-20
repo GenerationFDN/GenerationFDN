@@ -13,7 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![generation foundation](https://user-images.githubusercontent.com/100190845/169434079-21e19eea-e4be-4eab-afd9-3cdff5c20817.png)
+<!-- ![generation foundation](https://user-images.githubusercontent.com/100190845/169434079-21e19eea-e4be-4eab-afd9-3cdff5c20817.png | width=100) -->
+
+<!-- ![generation foundation](https://user-images.githubusercontent.com/100190845/169434079-21e19eea-e4be-4eab-afd9-3cdff5c20817.png){: width="100%" height="100%"} -->
+
+<!-- ![title]([/img/myImg.png](https://user-images.githubusercontent.com/100190845/169434079-21e19eea-e4be-4eab-afd9-3cdff5c20817.png)){: width="100%" height="100%"} -->
+
+<img src="https://user-images.githubusercontent.com/100190845/169434079-21e19eea-e4be-4eab-afd9-3cdff5c20817.png" width="100%">
+
+
+
 
 ### Hello! 👋
 
